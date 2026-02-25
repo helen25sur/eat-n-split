@@ -1,5 +1,3 @@
-import './App.css'
-
 const initialFriends = [
   {
     id: 118836,
